@@ -109,4 +109,7 @@ project.
 
 
 
-references: https://github.com/techwithlucy/youtube/tree/main/2-s3-quicksight (tech with lucy tutorial)
+references: 
+https://github.com/techwithlucy/youtube/tree/main/2-s3-quicksight (tech with lucy tutorial)
+https://www.youtube.com/watch?v=4-8cXuZzKTg
+i want to thank Lucy for the wonderful video along with her github on how to follow this project to establish a very detailed and customized graph using quicksight
